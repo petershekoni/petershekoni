@@ -4,7 +4,7 @@ I'm an aspiring Data & Cloud Engineer with a strong background in data analytics
 
 ---
 
-### 🛠️ **Skills & Technologies**
+### **Skills & Technologies**
 Cloud Platform: ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 Data Engineering & Databases: ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -17,7 +17,7 @@ Data Analysis & Visualization: ![Power BI](https://img.shields.io/badge/Power%20
 
 ---
 
-### 🚀 **My Featured Project**
+### **My Featured Project**
 
 * **[Serverless ETL Data Pipeline on AWS](https://github.com/petershekoni/etl-serverless-pipeline)**
     * Designed and deployed an event-driven, serverless data pipeline using AWS SAM (IaC).
