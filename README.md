@@ -26,7 +26,7 @@ Data Analysis & Visualization: ![Power BI](https://img.shields.io/badge/Power%20
 
 ---
 
-### 📫 **How to Reach Me**
+### **How to Reach Me**
 
 * **LinkedIn:** https://www.linkedin.com/in/peter-shekoni/
 * **Email:** shekonipete@gmail.com
