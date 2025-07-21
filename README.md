@@ -17,15 +17,6 @@ Data Analysis & Visualization: ![Power BI](https://img.shields.io/badge/Power%20
 
 ---
 
-### **My Featured Project**
-
-* **[Serverless ETL Data Pipeline on AWS](https://github.com/petershekoni/etl-serverless-pipeline)**
-    * Designed and deployed an event-driven, serverless data pipeline using AWS SAM (IaC).
-    * Features automated data ingestion, data quality checks with SNS alerting, transformation with Pandas, and dual-storage persistence in S3 (Parquet) and DynamoDB.
-    * Solved real-world cloud challenges including CloudFormation circular dependencies and data schema inconsistencies in Athena.
-
----
-
 ### **How to Reach Me**
 
 * **LinkedIn:** https://www.linkedin.com/in/peter-shekoni/
